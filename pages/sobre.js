@@ -5,7 +5,7 @@ function Sobre() {
     <div>
       <h1>Sobre</h1>
       
-      <Link href="/">
+      <Link legacyBehavior href="/">
         <a>Acessar página Home</a>
       </Link>
     </div>

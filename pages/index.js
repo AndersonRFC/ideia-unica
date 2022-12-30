@@ -5,7 +5,7 @@ function Home() {
     <div>
       <h1>Home</h1>
 
-      <Link href="/sobre">
+      <Link legacyBehavior href="/sobre">
         <a>Acessar página Sobre</a>
       </Link>
     </div>
